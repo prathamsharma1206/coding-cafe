@@ -1,0 +1,16 @@
+  244  pip3 install requests
+  245  pip3 list
+  246  man ls
+  247  man man
+  248  history
+  249  python3
+  250  history>week02/lab01-log.txt
+  251  history > week2/lab01-log.txt
+  252  run-help ₹
+  253  ls
+  254  deactivate
+  255  ls
+  256  ls
+  257  mkdir week03
+  258  rmdir week03
+  259  mkdir week02
